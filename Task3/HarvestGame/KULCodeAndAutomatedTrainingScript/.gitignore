@@ -1,0 +1,11 @@
+.*
+*.log
+Thumbs.db
+
+node_modules/
+
+!.git*
+!.eslint*
+!.editorconfig
+/.idea
+/__pycache__

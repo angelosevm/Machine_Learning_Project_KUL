@@ -1,0 +1,197 @@
+Iteration 1
+
+Iteration 2
+Scores : [90, 58, 26, 14]
+Loss : 8.601334499664252
+New epsilon : 0.81
+
+Iteration 3
+Scores : [126, 59, 53, 49]
+Loss : 14.268699805308618
+New epsilon : 0.7290000000000001
+
+Iteration 4
+Scores : [173, 43, 19, 6]
+Loss : 8.784853251245302
+New epsilon : 0.6561000000000001
+
+Iteration 5
+Scores : [313, 293, 157, 127]
+Loss : 9.362115279753175
+New epsilon : 0.5904900000000002
+
+Iteration 6
+Scores : [360, 317, 315, 153]
+Loss : 12.35910131508306
+New epsilon : 0.5314410000000002
+
+Iteration 7
+Scores : [372, 265, 226, 159]
+Loss : 10.348106527949477
+New epsilon : 0.47829690000000014
+
+Iteration 8
+Scores : [396, 295, 276, 187]
+Loss : 10.64469831881116
+New epsilon : 0.43046721000000016
+
+Iteration 9
+Scores : [589, 382, 366, 341]
+Loss : 11.468455710068538
+New epsilon : 0.38742048900000015
+
+Iteration 10
+Scores : [487, 419, 401, 311]
+Loss : 8.422756743221848
+New epsilon : 0.34867844010000015
+
+Iteration 11
+Scores : [502, 485, 355, 331]
+Loss : 10.221091341235176
+New epsilon : 0.31381059609000017
+
+Iteration 12
+Scores : [519, 385, 331, 317]
+Loss : 11.689186328801368
+New epsilon : 0.28242953648100017
+
+Iteration 13
+Scores : [609, 461, 389, 355]
+Loss : 9.396736353564936
+New epsilon : 0.25418658283290013
+
+Iteration 14
+Scores : [1, 1, 0, 0]
+Loss : 13.778344764031086
+New epsilon : 0.22876792454961012
+
+Iteration 15
+Scores : [651, 617, 548, 543]
+Loss : 11.182502506514712
+New epsilon : 0.2058911320946491
+
+Iteration 16
+Scores : [666, 574, 494, 472]
+Loss : 14.648188841429075
+New epsilon : 0.1853020188851842
+
+Iteration 17
+Scores : [654, 583, 572, 563]
+Loss : 14.836441342308046
+New epsilon : 0.16677181699666577
+
+Iteration 18
+Scores : [771, 581, 530, 313]
+Loss : 12.776544049889875
+New epsilon : 0.1500946352969992
+
+Iteration 19
+Scores : [749, 710, 707, 622]
+Loss : 13.817712079316415
+New epsilon : 0.13508517176729928
+
+Iteration 20
+Scores : [827, 696, 644, 540]
+Loss : 8.788781370988877
+New epsilon : 0.12157665459056936
+
+Iteration 21
+Scores : [653, 552, 548, 531]
+Loss : 10.694554855741325
+New epsilon : 0.10941898913151243
+
+Iteration 22
+Scores : [769, 732, 543, 509]
+Loss : 10.975069651334376
+New epsilon : 0.0984770902183612
+
+Iteration 23
+Scores : [687, 654, 623, 612]
+Loss : 10.880451060780585
+New epsilon : 0.08862938119652508
+
+Iteration 24
+Scores : [781, 608, 595, 577]
+Loss : 10.625318331804658
+New epsilon : 0.07976644307687257
+
+Iteration 25
+Scores : [804, 747, 731, 639]
+Loss : 10.695660772132898
+New epsilon : 0.07178979876918531
+
+Iteration 26
+Scores : [783, 660, 631, 607]
+Loss : 8.834694004364934
+New epsilon : 0.06461081889226679
+
+Iteration 27
+Scores : [808, 722, 666, 650]
+Loss : 8.884626541586332
+New epsilon : 0.05814973700304011
+
+Iteration 28
+Scores : [761, 745, 717, 612]
+Loss : 11.56387914877603
+New epsilon : 0.0523347633027361
+
+Iteration 29
+Scores : [2, 1, 0, 0]
+Loss : 12.244331294107857
+New epsilon : 0.04710128697246249
+
+Iteration 30
+Scores : [3, 1, 0, 0]
+Loss : 13.028628364504417
+New epsilon : 0.042391158275216244
+
+Iteration 31
+Scores : [20, 16, 10, 6]
+Loss : 13.68106815847184
+New epsilon : 0.03815204244769462
+
+Iteration 32
+Scores : [790, 711, 709, 650]
+Loss : 11.294091923407317
+New epsilon : 0.03433683820292516
+
+Iteration 33
+Scores : [843, 755, 748, 684]
+Loss : 10.493013416376392
+New epsilon : 0.030903154382632643
+
+Iteration 34
+Scores : [752, 709, 700, 672]
+Loss : 9.939811823752596
+New epsilon : 0.02781283894436938
+
+Iteration 35
+Scores : [748, 673, 663, 638]
+Loss : 7.621754549635655
+New epsilon : 0.025031555049932444
+
+Iteration 36
+Scores : [850, 812, 787, 758]
+Loss : 6.069184649692662
+New epsilon : 0.0225283995449392
+
+Iteration 37
+Scores : [18, 4, 3, 2]
+Loss : 11.870268465928213
+New epsilon : 0.020275559590445278
+
+Iteration 38
+Scores : [757, 730, 672, 614]
+Loss : 9.648112990505886
+New epsilon : 0.01824800363140075
+
+Iteration 39
+Scores : [652, 645, 615, 579]
+Loss : 9.583226176509381
+New epsilon : 0.016423203268260675
+
+Iteration 40
+Scores : [882, 856, 831, 784]
+Loss : 7.490318070957816
+New epsilon : 0.014780882941434608
+
